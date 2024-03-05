@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💻 At the moment work as a Back-End Developer. Always looking to improve my skills and give my best.</p>
+<h3 align="center">💻 At the moment work as a Back-End Developer. Always looking to improve my skills and give my best.</h3>
 
 ###
 
