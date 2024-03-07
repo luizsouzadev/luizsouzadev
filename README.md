@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🎓 Majoring in Computer Science<br>🎯 High English Skills <br>🏠 Brazilian</p>
+<h3 align="left">🎓 Majoring in Computer Science<br>🎯 High English Skills <br>🏠 Brazilian</p>
 
 ###
 
