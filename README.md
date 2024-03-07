@@ -14,8 +14,10 @@
 
 ###
 
-<h2 align="center"></h2>
 
+<h2 align="center">Techs</h2>
+
+###
 ###
 
 <div align="center">
@@ -35,6 +37,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <div align="center">
+    <br>
+    <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizsouzadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 </div>
 
